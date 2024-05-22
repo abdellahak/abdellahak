@@ -27,14 +27,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdellahak&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-<h3>Support me:</h3>
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-
-<p dir="auto"><a href="https://www.buymeacoffee.com/MingoAk" rel="nofollow"><img src="https://camo.githubusercontent.com/28aae05a0fba45679e8e27d90609601e249b64a5fe30dfef05495de4f4e318d4/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67" width="200" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" style="max-width: 100%;"></a></p>
